@@ -1,7 +1,11 @@
 # AI-Staged Shopee Listing App
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21795183.svg)](https://doi.org/10.5281/zenodo.21795183)
+
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.21795184.svg)](https://doi.org/10.5281/zenodo.21795184)
 
 **Current archived release:** [v0.1.0 on Zenodo](https://doi.org/10.5281/zenodo.21795184)
+
+**All versions DOI:** [10.5281/zenodo.21795183](https://doi.org/10.5281/zenodo.21795183)
+
 A local-first, open-source reference implementation for preparing high-quality Shopee Malaysia listings with AI and then executing the approved listing with a fixed, testable program flow.
 
 The central method is **AI staging, deterministic execution**.
