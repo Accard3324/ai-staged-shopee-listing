@@ -1,0 +1,2 @@
+# Runtime dependency list intentionally empty.
+# The application and its CDP browser client use only the Python standard library.

@@ -1,0 +1,9 @@
+{
+  "prompts": {
+    "image_analysis": "",
+    "description_generation": "",
+    "keyword_generation": "",
+    "competitor_title_analysis": "",
+    "category_selection": "Choose only from category suggestions actually displayed on the current Shopee page and rank them using objective image facts. Never invent a category path. When evidence is limited, choose the safest displayed suggestion and explain the choice. Keep category_suggestion.path in the page's original language and write all explanations and warnings in English."
+  }
+}

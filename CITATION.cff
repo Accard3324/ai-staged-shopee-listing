@@ -1,0 +1,18 @@
+cff-version: 1.2.0
+message: "If this software or its AI-staging/deterministic-execution method helps your work, please cite the repository and release."
+title: "AI-Staged Shopee Listing App"
+type: software
+authors:
+  - name: "vip-jiekaixu"
+    website: "https://github.com/vip-jiekaixu"
+version: 0.1.0
+license: Apache-2.0
+repository-code: "https://github.com/vip-jiekaixu/ai-staged-shopee-listing"
+url: "https://github.com/vip-jiekaixu/ai-staged-shopee-listing"
+abstract: "A local-first reference implementation that prepares reviewable e-commerce listing packets with AI and executes approved Shopee form actions through deterministic code."
+keywords:
+  - Shopee
+  - e-commerce
+  - listing automation
+  - AI-assisted workflow
+  - deterministic automation

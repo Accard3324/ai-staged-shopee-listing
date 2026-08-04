@@ -1,0 +1,34 @@
+# Secrets and local settings
+.env
+.env.*
+!.env.example
+*.pem
+*.key
+credentials.json
+
+# Python environments and caches
+.venv/
+.runtime/
+__pycache__/
+*.py[cod]
+.pytest_cache/
+.mypy_cache/
+.ruff_cache/
+
+# Generated business data and diagnostics
+outputs/
+logs/
+tmp/
+.test-output/
+*.xlsx
+*.xlsm
+*.csv
+*.tsv
+*.log
+
+# Editors and operating systems
+.idea/
+.vscode/
+.DS_Store
+Thumbs.db
+desktop.ini

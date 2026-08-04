@@ -1,0 +1,9 @@
+{
+  "component": "7-Zip Reduced Standalone Console",
+  "version": "26.02",
+  "platform": "windows",
+  "source_url": "https://www.7-zip.org/a/7zr.exe",
+  "size": 602112,
+  "sha256": "56B8CC9F4971CEF253644FAFE54063ED7FDCA551D4DEE0F8C6BAA81B855ACD72",
+  "license_file": "LICENSE.txt"
+}

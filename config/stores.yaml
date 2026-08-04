@@ -1,0 +1,39 @@
+{
+  "stores": [
+    {
+      "name": "Shopee-MY-Store-A",
+      "status_column": "D",
+      "template_key": "Store A",
+      "listing_sheet": "StoreAListings",
+      "aliases": [
+        "Store A",
+        "Shopee-MY-Store-A"
+      ]
+    },
+    {
+      "name": "Shopee-MY-Store-B",
+      "status_column": "C",
+      "template_key": "Store B",
+      "listing_sheet": "StoreBListings",
+      "aliases": [
+        "Store B",
+        "Shopee-MY-Store-B"
+      ]
+    },
+    {
+      "name": "Shopee-MY-Store-C",
+      "status_column": "B",
+      "template_key": "Store C",
+      "listing_sheet": "StoreCListings",
+      "aliases": [
+        "Store C",
+        "Shopee-MY-Store-C"
+      ]
+    }
+  ],
+  "description_templates": {
+    "Store A": "",
+    "Store B": "",
+    "Store C": ""
+  }
+}

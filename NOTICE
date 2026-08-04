@@ -1,0 +1,21 @@
+AI-Staged Shopee Listing App
+Copyright 2026 vip-jiekaixu
+
+The project source is licensed under the Apache License, Version 2.0.
+
+Third-party components
+----------------------
+
+The source distribution contains these unmodified archive utilities:
+
+1. 7zr.exe from 7-Zip, copyright 1999-2025 Igor Pavlov. The applicable
+   GNU LGPL and related notices are retained in
+   tools/archive/7zip/windows/LICENSE.txt.
+
+2. UnRAR.exe, copyright Alexander L. Roshal and licensed by win.rar GmbH.
+   Its license is retained in
+   tools/archive/unrar/windows-amd64/License.txt.
+
+Shopee, Ziniao, NVIDIA, Agnes AI, OpenAI, and other names may be
+trademarks of their respective owners. Their mention describes compatibility
+only and does not imply affiliation, authorization, or endorsement.

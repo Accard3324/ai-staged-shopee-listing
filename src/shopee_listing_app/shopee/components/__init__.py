@@ -1,0 +1,1 @@
+"""Shopee component automation snippets."""

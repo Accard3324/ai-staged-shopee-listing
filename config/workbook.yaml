@@ -1,0 +1,20 @@
+{
+  "path": "C:\\path\\to\\listing_workbook.xlsx",
+  "sheet_prefix": "马来西亚商品信息表",
+  "unlisted_status": "未上架",
+  "field_columns": {
+    "sku_spec": "A",
+    "price_1box": "E",
+    "price_2box": "F",
+    "price_3box": "G",
+    "package_weight_kg": "V",
+    "package_length_cm": "W",
+    "package_width_cm": "X",
+    "package_height_cm": "Y",
+    "sales_rank_15d_avg": "Z",
+    "sku_code": "AB",
+    "product_name": "AC",
+    "brand": "AD",
+    "overseas_available_stock": "AO"
+  }
+}

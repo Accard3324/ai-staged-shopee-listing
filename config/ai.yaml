@@ -1,0 +1,33 @@
+{
+  "provider": "openai",
+  "endpoint": "https://api.openai.com/v1",
+  "api_key_env": "OPENAI_API_KEY",
+  "model": "gpt-5.6",
+  "timeout_seconds": 900,
+  "fallback_models": [],
+  "max_retries_per_model": 2,
+  "mask_api_key_in_logs": true,
+  "openai": {
+    "base_url": "https://api.openai.com/v1",
+    "model": "gpt-5.6",
+    "timeout_seconds": 900
+  },
+  "zhipu": {
+    "default_model": "glm-5.2",
+    "fallback_models": ["glm-4.7", "glm-4.6", "glm-4.5-air"],
+    "timeout_seconds": 90,
+    "max_retries_per_model": 2,
+    "mask_api_key_in_logs": true
+  },
+  "nvidia_dual": {
+    "vision_model": "qwen/qwen3.5-397b-a17b",
+    "agnes_vision_model": "agnes-2.0-flash",
+    "agnes_vision_base_url": "https://apihub.agnes-ai.com/v1",
+    "vision_fallback_models": [],
+    "minimax_vision_model": "minimaxai/minimax-m3",
+    "vision_base_url": "https://integrate.api.nvidia.com/v1",
+    "text_model": "z-ai/glm-5.2",
+    "text_base_url": "https://integrate.api.nvidia.com/v1",
+    "timeout_seconds": 90
+  }
+}
